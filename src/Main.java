@@ -1,8 +1,14 @@
 public class Main {
 
     public static void main(String args[]){
-        System.out.println("Beaner and Negroman moon landing!!!!!");
-        System.out.println("#Circumcision");
+
+        boolean isDanielABeaner = true;
+
+        if(isDanielABeaner){
+            System.out.println("#Circumcision");
+        }else{
+            System.out.println("Beaner and Negroman moon landing!!!!!");
+        }
     }
 
 }
