@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import javax.swing.*;
 
 public class Main extends JFrame {
@@ -17,3 +18,5 @@ public class Main extends JFrame {
     }
 
 }
+=======
+>>>>>>> 4013f16fe9a105ae3e4f5dbf9683e91bd286fd9e
