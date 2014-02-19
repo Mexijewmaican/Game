@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625c38cf-0a43-46db-8d16-5cccf6e4d738" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Game.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="27" selection-start="352" selection-end="352" vertical-scroll-proportion="0.505618" vertical-offset="0" max-vertical-offset="445">
+            <state line="14" column="23" selection-start="324" selection-end="324" vertical-scroll-proportion="0.47191012" vertical-offset="0" max-vertical-offset="445">
               <folding>
                 <element signature="e#138#272#0" expanded="true" />
                 <element signature="e#261#262#0" expanded="true" />
@@ -339,7 +339,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="352" selection-end="352" vertical-scroll-proportion="0.505618" vertical-offset="0" max-vertical-offset="445">
+        <state line="14" column="23" selection-start="324" selection-end="324" vertical-scroll-proportion="0.47191012" vertical-offset="0" max-vertical-offset="445">
           <folding>
             <element signature="e#138#272#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
